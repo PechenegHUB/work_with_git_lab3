@@ -1,0 +1,7 @@
+diff --git a/cursor.txt b/cursor.txt
+index c6d4c27..3c3dff5 100644
+--- a/cursor.txt
++++ b/cursor.txt
+@@ -1 +1,2 @@
+ Здоровый сон
++не здоровый_сон
