@@ -1,0 +1,14 @@
+* e1b56d9 merge conflict
+*   8138312 merge conflict
+|\  
+| * 023aa90 commit 8 feature  2
+* | 8ae0075 commit 7 feature  1
+|/  
+* be29401 commit 5 very sleepy
+* 7bd3f07 Initial commit
+* 6f9a56d add cursor.txt 5
+* 8f5f2f7 add cursor.txt 4
+* 9c55dd9 add cursor.txt 3
+* c5a4c10 add cursor.txt 2
+* 6291dc2 add cursor.txt 1
+* 8706aff init
